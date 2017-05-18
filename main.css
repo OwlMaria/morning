@@ -25,13 +25,13 @@ nav {
 
 article {
 	padding: 10px;
-	margin: 20px 5px;
+	margin: 20px 3px 20px 5px;
 	background:#cbe122;
 }
 
 aside {
 	padding: 5px;
-	margin: 20px 5px;
+	margin: 20px 3px 20px 5px;
 	background:#cbe122;
 	width: 27%;
 	float: right;
