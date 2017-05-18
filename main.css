@@ -15,6 +15,8 @@ button {
 
 footer {
 	background: linear-gradient(to bottom, #adc400, transparent);
+	position: static;
+	bottom: 0px;
 }
 
 nav {
@@ -22,13 +24,24 @@ nav {
 }
 
 article {
+	padding: 10px;
+	margin: 20px 5px;
 	background:#cbe122;
 }
 
 aside {
+	padding: 5px;
+	margin: 20px 5px;
 	background:#cbe122;
+	width: 27%;
+	float: right;
 }
 
 hr {
 	color: #526c01;
+}
+
+article {
+	width: 67%;
+	float: left;
 }
